@@ -1,0 +1,7 @@
+$bluecolor:blue;
+
+
+@mixin heading{
+    color:$bluecolor;
+    background-color: aqua;
+}

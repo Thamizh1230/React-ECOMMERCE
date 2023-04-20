@@ -1,0 +1,29 @@
+@import "../assets/style/variable.scss";
+
+.home h1{
+   padding:20px 0 40px 0;
+}
+.product img{
+    width:100%;
+    height: auto;
+    border-radius: 10px;
+    
+   
+}
+.product{
+    transition: all 0.3s ease;
+    background-color: #bdbdbd70;
+    border-radius: 10px;
+}
+.product .procontent{
+    text-align: center;
+}
+
+
+// .product:hover{
+//     transform: translateY(-10px) scale(1.1);
+//     box-shadow: 0 0 10px #ccc;
+
+// }
+
+

@@ -1,0 +1,35 @@
+
+.header{
+    margin-top: 20px;
+    background-color: #1fc1d6c9;
+    box-shadow: 0 0 10px #ccc;
+}
+.logo{
+    padding-left:90px;
+}
+.logo img{
+    width:70%;
+    height: auto;
+}
+
+.search_bar{
+    background-color: white;
+    height: 65px;
+    width: 60%;
+    display: block;
+    
+}
+.search_bar input{
+        background: transparent;
+        border: 0;
+        height: 60px;
+        width: 99%;
+        font-size: 16px;
+}
+
+.searchbox{
+    margin-left: 50px;
+}
+.icon{
+    padding-top: 6px;
+}
